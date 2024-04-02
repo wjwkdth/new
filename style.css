@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@500;700&display=swap');
+
+div{
+    text-align: center;
+    color: rgb(64, 150, 97);
+    background-color: rgb(206, 228, 215);
+}
+p{
+    text-align: center;
+    font-family: 'Noto Serif KR', serif;
+    font-size:30px;
+    color:rgb(64, 150, 97);
+}
+
+h1{
+    text-align: center;
+    font-family: 'Noto Serif KR', serif;
+    font-size:30px;
+    color:rgb(64, 150, 97);
+
+}
+h2{
+    text-align: center;
+    font-family: 'Noto Serif KR', serif;
+    font-size:30px;
+    color:rgb(64, 150, 97);
+
+}
+h3{
+    text-align: center;
+    font-family: 'Noto Serif KR', serif;
+    font-size:30px;
+    color:rgb(64, 150, 97);
+
+}
